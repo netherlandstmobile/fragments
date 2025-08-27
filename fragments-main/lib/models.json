@@ -1,0 +1,13 @@
+{
+  "models": [
+    {
+      "id": "models/gemini-2.0-flash",
+      "provider": "Google Generative AI",
+      "providerId": "google",
+      "name": "Gemini 2.0 Flash",
+      "multiModal": true
+    }
+  ]
+}
+
+
