@@ -1,5 +1,3 @@
-// Taken from https://github.com/upstash/ratelimit/blob/main/src/duration.ts
-
 type Unit = 'ms' | 's' | 'm' | 'h' | 'd'
 export type Duration = `${number} ${Unit}` | `${number}${Unit}`
 

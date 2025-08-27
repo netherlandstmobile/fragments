@@ -92,22 +92,6 @@ XAI_API_KEY=
 # Domain of the site
 NEXT_PUBLIC_SITE_URL=
 
-# Rate limit
-RATE_LIMIT_MAX_REQUESTS=
-RATE_LIMIT_WINDOW=
-
-# Vercel/Upstash KV (short URLs, rate limiting)
-KV_REST_API_URL=
-KV_REST_API_TOKEN=
-
-# Supabase (auth)
-SUPABASE_URL=
-SUPABASE_ANON_KEY=
-
-# PostHog (analytics)
-NEXT_PUBLIC_POSTHOG_KEY=
-NEXT_PUBLIC_POSTHOG_HOST=
-
 ### Disabling functionality (when uncommented)
 
 # Disable API key and base URL input in the chat
